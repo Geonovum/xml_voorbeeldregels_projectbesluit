@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- created by OpenOmgevingswet -->
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
+                             schemaversie="1.0">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1045/2020/OOWbTm</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2020/OOWbTm/nld@2020-02-05</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Tijdelijke Maatregelen</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>Tijdelijke Maatregelen</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <soortenInformatieobject>
+            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         </soortenInformatieobject>
+         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2020/OOW001OOWb</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Tm.gml</bestandsnaam>
+                  <hash>d1ffa144b304102e3059327276779197e924c297fab2e81be0b2d0aee235bc7d5b11364592734dd72566120cefeceee0e7edba49be31bda9380e6d500cc88c34</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

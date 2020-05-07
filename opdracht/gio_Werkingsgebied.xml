@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- created by OpenOmgevingswet -->
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
+                             schemaversie="1.0">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1045/2020/OOWbWerkingsgebied</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2020/OOWbWerkingsgebied/nld@2020-02-05</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Werkingsgebied</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>Werkingsgebied</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <soortenInformatieobject>
+            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         </soortenInformatieobject>
+         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2020/OOW001OOWb</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Werkingsgebied.gml</bestandsnaam>
+                  <hash>a58c51956e8d809825fa19b608fe429b874c6d99cd22cff2b1f5241f8903ed70acedf82ec2f338f7df897fbdab57dcb17a648d19b34c184af95c89901374d4b8</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
