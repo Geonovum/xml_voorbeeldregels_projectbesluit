@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<!-- created by OpenOmgevingswet -->
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen/v20190709" xmlns:g-ref="http://www.geostandaarden.nl/imow/geometrie-ref/v20190901" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing/v20190709" xmlns:ga-ref="http://www.geostandaarden.nl/imow/gebiedsaanwijzing-ref/v20190709" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:l="http://www.geostandaarden.nl/imow/locatie/v20190901" xmlns:l-ref="http://www.geostandaarden.nl/imow/locatie-ref/v20190901" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand/v20190901" xmlns:r="http://www.geostandaarden.nl/imow/regels/v20190901" xmlns:r-ref="http://www.geostandaarden.nl/imow/regels-ref/v20190901" xmlns:rkow="http://www.geostandaarden.nl/imow/owobject/v20190709" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie/v20190901" xmlns:rol-ref="http://www.geostandaarden.nl/imow/regelsoplocatie-ref/v20190709" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek/v20190301" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst/v20190901" xmlns:vt-ref="http://www.geostandaarden.nl/imow/vrijetekst-ref/v20190901" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand/v20190901 ../xsd/bestanden-ow/deelbestand-ow/v20190901/IMOW_Deelbestand_v0_9_8_2.xsd">
+  <sl:standBestand>
+    <sl:dataset>OOW Voorbeeldregels Projectbesluit aansluiting net op Zee</sl:dataset>
+    <sl:inhoud>
+      <sl:gebied>Beverwijk en Wijk aan Zee</sl:gebied>
+      <sl:leveringsId>OOWcBNOZ007</sl:leveringsId>
+      <sl:objectTypen>
+        <sl:objectType>Tekstdeel</sl:objectType>
+      </sl:objectTypen>
+    </sl:inhoud>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcDeel1">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcDeel1D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcDeel1"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk1">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk1D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk1"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P1">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcParagraaf2P1D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P1"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P2">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcParagraaf2P2D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P2"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P3">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcParagraaf2P3D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P3"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P4">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcParagraaf2P4D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcParagraaf2P4"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcParagraaf3P1">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcParagraaf3P1D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcParagraaf3P1"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcParagraaf3P2">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcParagraaf3P2D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcParagraaf3P2"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk4">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk4D0</vt:identificatie>
+          <vt:idealisatie>indicatief</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk4"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcTm"/>
+          </vt:locatieaanduiding>
+          <vt:gebiedsaanwijzing>
+            <ga-ref:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.OOWcTm"/>
+          </vt:gebiedsaanwijzing>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk5">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk5D0</vt:identificatie>
+          <vt:idealisatie>indicatief</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk5"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcMng"/>
+          </vt:locatieaanduiding>
+          <vt:gebiedsaanwijzing>
+            <ga-ref:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.OOWcMng"/>
+          </vt:gebiedsaanwijzing>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk6">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk6D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk6"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk7">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk7D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk7"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk8">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk8D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk8"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk9">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk9D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk9"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel rkow:regeltekstId="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk10">
+          <vt:identificatie>nl.imow-mnre1045.tekstdeel.OOWcHoofdstuk10D0</vt:identificatie>
+          <vt:idealisatie>exact</vt:idealisatie>
+          <vt:formeleDivisie>
+            <vt-ref:FormeleDivisieRef xlink:href="nl.imow-mnre1045.formeledivisie.OOWcHoofdstuk10"/>
+          </vt:formeleDivisie>
+          <vt:locatieaanduiding>
+            <l-ref:LocatieRef xlink:href="nl.imow-mnre1045.gebied.OOWcWerkingsgebied"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+  </sl:standBestand>
+</ow-dc:owBestand>
