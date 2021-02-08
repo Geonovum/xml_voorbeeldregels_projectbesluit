@@ -21,7 +21,7 @@
       </Bestand>-->
       <Bestand>
          <naam>divisies.xml</naam>
-         <objecttype>FormeleDivisie</objecttype>
+         <objecttype>Divisie</objecttype>
       </Bestand>
       <Bestand>
          <naam>tekstdelen.xml</naam>
